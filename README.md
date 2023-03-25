@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" align="right" width="200" height="200" style="border-radius: 10px;">
+<img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" align="right" width="200" height="200" style="border-radius: 30px;">
 
 
 <h1 align="left">Hi 👋, I'm Okan</h1>
